@@ -1,6 +1,6 @@
 # Luiz Fernando
 
-![Random Header Image](https://unsplash.com/photos/PJzc7LOt2Ig)
+![Random Header Image](https://source.unsplash.com/PJzc7LOt2Ig/1000x200)
 
 <!---
 - 👋 Hi, I’m @luizfernandosg
