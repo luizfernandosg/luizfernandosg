@@ -54,6 +54,8 @@ You can click the Preview link to take a look at your changes.
 
 * ...
 
+<!---
+
 ## Software Development
 
 [![Zettlr](https://img.shields.io/static/v1?label=App&message=Zettlr&color=1cb27e&logo=javascript)](https://www.zettlr.com/)
@@ -93,3 +95,4 @@ For instance, I once [edited my own journal](https://www.dispositio-opinio.de/) 
 
 Last but not least, I am also an editor of the German academic journal [Soziologiemagazin](https://soziologieblog.hypotheses.org/) and responsible for review, public relations and all the computer-ish things in the background.
 
+-->
